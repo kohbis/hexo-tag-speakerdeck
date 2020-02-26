@@ -1,0 +1,22 @@
+{
+  "name": "hexo-tag-speakerdeck",
+  "version": "0.0.1",
+  "description": "Embed speakerdeck tag for Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo"
+  ],
+  "author": "kohbis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kohbis/hexo-tag-speakerdeck.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kohbis/hexo-tag-speakerdeck/issues"
+  },
+  "homepage": "https://github.com/kohbis/hexo-tag-speakerdeck#readme"
+}
